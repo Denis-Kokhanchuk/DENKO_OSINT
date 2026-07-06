@@ -1,0 +1,20 @@
+{
+  "id": "014",
+  "title": "Declassified Intelligence Analysis",
+  "difficulty": "EASY",
+  "description": "The image on the right is a screenshot taken from a CIA declassified document. It depicts a caption report of an undisclosed photo taken by an agent. The text mentions a telescope 'being assembled at factory'.",
+  "questions": [
+    {
+      "type": "text",
+      "label": "Have you found a photo that matches the description on the caption report? (Enter 'true' if found).",
+      "correctAnswer": "true"
+    },
+    {
+      "type": "text",
+      "label": "What is the exact location of where the telescope was placed once completed?",
+      "correctAnswer": "50.72584680744165, 7.089997364417692"
+    }
+  ],
+  "hint": "Read the text within the photo very carefully.",
+  "videoUrl": ""
+}

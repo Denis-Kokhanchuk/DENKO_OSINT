@@ -1,0 +1,15 @@
+{
+  "id": "015",
+  "title": "Military Aircraft Reconnaissance",
+  "difficulty": "EXPERT",
+  "description": "On November 25, 2020, a Twitter user shared the photo on the right. It depicted a military aircraft flying over an 'undisclosed location'.",
+  "questions": [
+    {
+      "type": "text",
+      "label": "Your task is to disclose that location.",
+      "correctAnswer": "37.3497619859253, 37.8915121297038"
+    }
+  ],
+  "hint": "Look into official military documentations or press releases published during this specific event.",
+  "videoUrl": ""
+}

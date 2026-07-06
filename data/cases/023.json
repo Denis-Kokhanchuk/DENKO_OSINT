@@ -1,0 +1,22 @@
+{
+  "id": "023",
+  "title": "Speaker Identification",
+  "difficulty": "MEDIUM",
+  "description": "The image on the right shows a group of people sitting in front of a large screen that reads 'Lectura en Movimiento en Lima'. A speaker can be seen standing on the left-hand side in front of three large flags.",
+  "questions": [
+    {
+      "type": "text",
+      "label": "Name the speaker.",
+      "placeholder": "Enter speaker's name",
+      "correctAnswer": "Juan Orlando Hernandez"
+    },
+    {
+      "type": "text",
+      "label": "Find footage of his speech (Enter 'true' if verified).",
+      "placeholder": "Enter true/false",
+      "correctAnswer": "true"
+    }
+  ],
+  "hint": "Check local news public pages and archives.",
+  "videoUrl": ""
+}

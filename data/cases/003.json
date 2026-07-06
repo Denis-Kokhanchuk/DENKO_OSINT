@@ -1,0 +1,25 @@
+{
+  "id": "003",
+  "title": "Gelolocation",
+  "difficulty": "EASY",
+  "description": "This is a photo of a resort located on an island.",
+  "questions": [
+    {
+      "type": "text",
+      "label": "What is the name of the resort?",
+      "correctAnswer": "Oan Resort"
+    },
+    {
+      "type": "text",
+      "label": "What are the coordinates of the island?",
+      "correctAnswer": "7.3631° N, 151.7559° E"
+    },
+    {
+      "type": "text",
+      "label": "In which cardinal direction was the camera facing when the photo was taken?",
+      "correctAnswer": "Northwest"
+    }
+  ],
+  "hint": "This island is located near the Federated States of Micronesia",
+  "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+}

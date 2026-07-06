@@ -1,0 +1,25 @@
+{
+  "id": "010",
+  "title": "Event and Photographer Identification",
+  "difficulty": "EASY",
+  "description": "A Twitter user shared three photos of an event.",
+  "questions": [
+    {
+      "type": "text",
+      "label": "Which event is being celebrated in the photos?",
+      "correctAnswer": "Fête du Vodoun"
+    },
+    {
+      "type": "text",
+      "label": "Which two photos were taken by the same person (left 1, right 2 and 3)?",
+      "correctAnswer": "1 and 2"
+    },
+    {
+      "type": "text",
+      "label": "The two photos mentioned above were taken in the same city. The photographer was previously in a different city. Find out the name of that city.",
+      "correctAnswer": "Benin"
+    }
+  ],
+  "hint": "Check the photos on https://www.gettyimages.com/ to identify the person who took the photo, and through them, you will be able to find the city where it happened.",
+  "videoUrl": ""
+}

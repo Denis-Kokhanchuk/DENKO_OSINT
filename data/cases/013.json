@@ -1,0 +1,20 @@
+{
+  "id": "013",
+  "title": "Earthquake Video Geolocation",
+  "difficulty": "MEDIUM",
+  "description": "The video on the right was recorded during an earthquake.",
+  "questions": [
+    {
+      "type": "text",
+      "label": "What was the magnitude of this earthquake?",
+      "correctAnswer": "5.6"
+    },
+    {
+      "type": "text",
+      "label": "What are the coordinates of where the camera was likely located in order to record this scene?",
+      "correctAnswer": "47.01334, 28.85172"
+    }
+  ],
+  "hint": "Pay close attention to the recording date of this video and look at the background details.",
+  "videoUrl": ""
+}

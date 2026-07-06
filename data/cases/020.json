@@ -1,0 +1,20 @@
+{
+  "id": "020",
+  "title": "OSINT Desktop Video Analysis",
+  "difficulty": "EASY",
+  "description": "A YouTube video was published in October 2023. Between the third and fourth minute of the runtime, a computer desktop is briefly visible.",
+  "questions": [
+    {
+      "type": "text",
+      "label": "Find the title of the illustration, as given by the artist.",
+      "correctAnswer": "Adam Scythe"
+    },
+    {
+      "type": "text",
+      "label": "Find how much it would cost for the artist to create a similar piece, in size and detail (XXXX-XXXX).",
+      "correctAnswer": "190-200"
+    }
+  ],
+  "hint": "No extra hint is required for this case.",
+  "videoUrl": ""
+}

@@ -1,0 +1,25 @@
+{
+  "id": "005",
+  "title": "Zoo Live Cam Investigation",
+  "difficulty": "EXPERT",
+  "description": "The image on the right is a screenshot from a zoo live cam. It was taken on January 15, 2023, at around 2pm local time.",
+  "questions": [
+    {
+      "type": "text",
+      "label": "In which zoo are these polar bears located?",
+      "correctAnswer": "San Diego Zoo"
+    },
+    {
+      "type": "text",
+      "label": "What was the temperature at the time of the screenshot? ",
+      "correctAnswer": "+14"
+    },
+    {
+      "type": "text",
+      "label": "What were the exact coordinates of where the bears were lying down?",
+      "correctAnswer": "true"
+    }
+  ],
+  "hint": "",
+  "videoUrl": ""
+}

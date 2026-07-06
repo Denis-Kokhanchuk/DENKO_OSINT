@@ -1,0 +1,16 @@
+{
+  "id": "022",
+  "title": "Zip File Investigation",
+  "difficulty": "EASY",
+  "description": "The image on the right shows the contents of a zip file. Inside you will find a 31-second video recorded during a train ride, and four photos of undisclosed locations. They were all taken by the same individual in February 2024. Despite having no useful metadata, they still contain enough information to track down this person’s movements.",
+  "questions": [
+    {
+      "type": "text",
+      "label": "At which train stations did the person board and alight?",
+      "placeholder": "Enter train stations",
+      "correctAnswer": "Eski Juva Market, Masjid, G'afur G'ulom Station, Akademik litsey"
+    }
+  ],
+  "hint": "Find the location of the market and the park.",
+  "videoUrl": ""
+}

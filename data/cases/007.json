@@ -1,0 +1,25 @@
+{
+  "id": "007",
+  "title": "City Photo Analysis",
+  "difficulty": "MEDIUM",
+  "description": "The photo on the right was taken a few years ago in a beautiful city. Your task is to find the answers to the following questions.",
+  "questions": [
+    {
+      "type": "text",
+      "label": "Where was the photo taken?",
+      "correctAnswer": "National Park"
+    },
+    {
+      "type": "text",
+      "label": "In which year was the photo taken?",
+      "correctAnswer": "2019"
+    },
+    {
+      "type": "text",
+      "label": "The big poster on the right contained a link to a website. What was the link?",
+      "correctAnswer": "www.tutankamon.pt"
+    }
+  ],
+  "hint": "Look closely at the poster on the right and the event taking place at this location during the time of that poster.",
+  "videoUrl": ""
+}

@@ -1,0 +1,20 @@
+{
+  "id": "009",
+  "title": "Video Geolocation & Timing",
+  "difficulty": "EXPERT",
+  "description": "The video on the right was shared by the Visit Tirana Twitter account on February 16, 2023.",
+  "questions": [
+    {
+      "type": "text",
+      "label": "To the best of your knowledge, at what time was the video recorded?",
+      "correctAnswer": "5:30"
+    },
+    {
+      "type": "text",
+      "label": "Find the coordinates of where the person was walking at the time of the recording.",
+      "correctAnswer": "41°19'41.9N 19°48'47.2E"
+    }
+  ],
+  "hint": "To check the sunset, go to timeanddate.com. To find the coordinates, check Google Photos.",
+  "videoUrl": ""
+}

@@ -1,0 +1,28 @@
+{
+  "id": "025",
+  "title": "Giraffe Species Conservation Analysis",
+  "difficulty": "EASY",
+  "description": "The newborn giraffe seen in the photo on the right belongs to an endangered species. Individuals such as this one, born in captivity, often participate in conservation programs. This may include transfers to accredited facilities for carefully planned breeding efforts aimed at ensuring the survival of their species.",
+  "questions": [
+    {
+      "type": "text",
+      "label": "What is the location and date of birth?",
+      "placeholder": "Enter location and date",
+      "correctAnswer": "January 9 and Santa Barbara Zoo"
+    },
+    {
+      "type": "text",
+      "label": "Which giraffe subspecies/tribe does it belong to?",
+      "placeholder": "Enter tribe name",
+      "correctAnswer": "Masai"
+    },
+    {
+      "type": "text",
+      "label": "What was its birth weight?",
+      "placeholder": "Enter weight",
+      "correctAnswer": "54"
+    }
+  ],
+  "hint": "Check the official independent.com website for details.",
+  "videoUrl": ""
+}

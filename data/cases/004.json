@@ -1,0 +1,15 @@
+{
+  "id": "004",
+  "title": "Geolocation",
+  "difficulty": "MEDIUM",
+  "description": "On the right you can see a screenshot from a tweet containing a photo. It contains all the relevant information necessary to help you find the exact location.",
+  "questions": [
+    {
+      "type": "text",
+      "label": "Please identify the coordinates of where the photo was taken.",
+      "correctAnswer": "16°36'34.3N,  11°23'52.1W"
+    }
+  ],
+  "hint": "",
+  "videoUrl": ""
+}

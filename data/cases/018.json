@@ -1,0 +1,15 @@
+{
+  "id": "018",
+  "title": "Map Imagery Verification",
+  "difficulty": "EASY",
+  "description": "Maps can appear in the most unusual places. The figure on the right contains a chocolate bar featuring a map. Next to it, you will find the satellite view of the same location.",
+  "questions": [
+    {
+      "type": "text",
+      "label": "Find the coordinates of the location seen in both images.",
+      "correctAnswer": "41.3676° N 4.7171° W"
+    }
+  ],
+  "hint": "Visit the official website: https://somospuchero.com/",
+  "videoUrl": ""
+}

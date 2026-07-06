@@ -1,0 +1,22 @@
+{
+  "id": "021",
+  "title": "Anonymous Quotes Location",
+  "difficulty": "EASY",
+  "description": "The world is full of anonymous quotes. Several were written in the unidentified building seen on the right.",
+  "questions": [
+    {
+      "type": "text",
+      "label": "Locate the building.",
+      "placeholder": "Enter building name",
+      "correctAnswer": "Sykes Datatronics"
+    },
+    {
+      "type": "text",
+      "label": "Find the quote containing the word 'anarchy'.",
+      "placeholder": "Enter the quote",
+      "correctAnswer": "?"
+    }
+  ],
+  "hint": "No hint is required for this case.",
+  "videoUrl": ""
+}

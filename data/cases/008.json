@@ -1,0 +1,25 @@
+{
+  "id": "008",
+  "title": "Newspaper Image Analysis",
+  "difficulty": "MEDIUM",
+  "description": "The photo on the right was taken from a page of the Epoch Times, a Chinese newspaper.",
+  "questions": [
+    {
+      "type": "text",
+      "label": "What was the audience applauding?",
+      "correctAnswer": "Shen Yun"
+    },
+    {
+      "type": "text",
+      "label": "When was the photo taken?",
+      "correctAnswer": "January 7, 2023"
+    },
+    {
+      "type": "text",
+      "label": "What is the name of the venue?",
+      "correctAnswer": "Chrysler Hall"
+    }
+  ],
+  "hint": "Translate this photo.",
+  "videoUrl": ""
+}

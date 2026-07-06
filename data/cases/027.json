@@ -1,0 +1,28 @@
+{
+  "id": "027",
+  "title": "UK Train Journey Geolocation",
+  "difficulty": "EXPERT",
+  "description": "The photograph on the right was taken while riding a train in the United Kingdom. I always prefer quiet places where no one can sit behind me, because in a public place, no information is truly private.",
+  "questions": [
+    {
+      "type": "text",
+      "label": "Uncover what the person in front of me was reading.",
+      "placeholder": "Enter book title",
+      "correctAnswer": "The Fair Botanists"
+    },
+    {
+      "type": "text",
+      "label": "Identify the train model.",
+      "placeholder": "Enter train class",
+      "correctAnswer": "British Rail Class 800"
+    },
+    {
+      "type": "text",
+      "label": "Identify my seat number.",
+      "placeholder": "Enter seat number",
+      "correctAnswer": "83"
+    }
+  ],
+  "hint": "Examine the image in maximum detail, then analyze the seating plan for this train model inside the coach 9 (H) Standard.",
+  "videoUrl": ""
+}

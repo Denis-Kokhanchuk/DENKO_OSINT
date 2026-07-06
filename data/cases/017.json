@@ -1,0 +1,15 @@
+{
+  "id": "017",
+  "title": "Fictitious Phone Call Geolocation",
+  "difficulty": "EXPERT",
+  "description": "The text on the right is a partial transcript of a phone call in which you can only read one side of the conversation. Despite the text being completely fabricated for this exercise, the location described is real.",
+  "questions": [
+    {
+      "type": "text",
+      "label": "Your task is to geolocate where the person was at the time of this fictitious phone call.",
+      "correctAnswer": "Ghent"
+    }
+  ],
+  "hint": "Key clues: a new carpet, a prayer/place of worship, a city built on a river that is 1.5 hours away from the sea. Near the house of prayer, there are two stations. German is not the official language, but the majority of the population speaks it.",
+  "videoUrl": ""
+}

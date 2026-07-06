@@ -1,0 +1,26 @@
+{
+  "id": "026",
+  "title": "Airport Hub Screen Analysis",
+  "difficulty": "EXPERT",
+  "description": "Airports are global hubs where cultures, languages, and lives briefly intersect. Millions of people pass through them each day. On an undisclosed date and at an unknown location, one of these travellers recorded a TV screen for 28 seconds. Watch the video and answer the questions.",
+  "media": {
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/rK9k2Cfe8wo"
+  },
+  "questions": [
+    {
+      "type": "text",
+      "label": "Determine the exact date and time when the video was recorded.",
+      "placeholder": "e.g., September 2024 09:14PM",
+      "correctAnswer": "September 2024 09:14PM"
+    },
+    {
+      "type": "text",
+      "label": "Identify the airport and the terminal where the TV screen was located.",
+      "placeholder": "Enter airport and terminal",
+      "correctAnswer": "Indira Gandhi International Airport terminal 3"
+    }
+  ],
+  "hint": "Translate the video audio/text into English. Review the layout constraints and see which airport terminals match these conditions.",
+  "videoUrl": ""
+}

@@ -1,0 +1,20 @@
+{
+  "id": "019",
+  "title": "Port Security Camera Investigation",
+  "difficulty": "EXPERT",
+  "description": "The image on the right comes from a security camera overseeing a port. Note: For the sake of privacy, you only need to provide the bottom half of the license plate containing 2 sets of numeric values, formatted as: [XX]-[XX].",
+  "questions": [
+    {
+      "type": "text",
+      "label": "Geolocate the security camera.",
+      "correctAnswer": "38°24'34.1\"N 141°14'40.6\"E"
+    },
+    {
+      "type": "text",
+      "label": "Find the license plate of the vehicle highlighted in orange.",
+      "correctAnswer": "31-20"
+    }
+  ],
+  "hint": "Take a look at the sign on the building (相澤水産) and search for this organization's website.",
+  "videoUrl": ""
+}

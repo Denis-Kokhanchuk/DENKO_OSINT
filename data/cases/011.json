@@ -1,0 +1,15 @@
+{
+  "id": "011",
+  "title": "Historical Figure Identification",
+  "difficulty": "EXPERT",
+  "description": "The photo on the right depicts four individuals.",
+  "questions": [
+    {
+      "type": "text",
+      "label": "Your task is to identify them all.",
+      "correctAnswer": "Fadil Al-Amin, Salih Hama Bakda, Mohamed Moazeb, Mustafa Abushagur"
+    }
+  ],
+  "hint": "Look into the events of December 17, 2015, in Libya.",
+  "videoUrl": ""
+}

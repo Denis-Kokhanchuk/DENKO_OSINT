@@ -1,0 +1,20 @@
+{
+  "id": "002",
+  "title": "Gelolocation",
+  "difficulty": "MEDIUM",
+  "description": "The photo on the right was shared on social media. It clearly depicts a train station.",
+  "questions": [
+    {
+      "type": "text",
+      "label": "What is the name of the train station seen in the photo?",
+      "correctAnswer": "Flinders Street Station"
+    },
+    {
+      "type": "text",
+      "label": "What is the name and height of the tallest structure seen in the photo?",
+      "correctAnswer": "167"
+    }
+  ],
+  "hint": "Sheck wikipedia.org",
+  "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "016",
+  "title": "Royal Procession & Coronation Analysis",
+  "difficulty": "MEDIUM",
+  "description": "In May 2023, the world witnessed the coronation of King Charles III at Westminster Abbey in London. Following the ceremony, and similarly to the previous regent, the monarch travelled through the city in a lavish carriage. The route of the 2023 royal procession differed from that of 1953.",
+  "questions": [
+    {
+      "type": "text",
+      "label": "Identify from which exact door Queen Elizabeth II left Westminster Abbey after her coronation.",
+      "correctAnswer": "North"
+    },
+    {
+      "type": "text",
+      "label": "Measure the distance travelled by the Queen's carriage, following the 1953 coronation. (Enter 'true' if verified).",
+      "correctAnswer": "true"
+    }
+  ],
+  "hint": "Cross-reference multiple historical mapping resources and archival records.",
+  "videoUrl": ""
+}

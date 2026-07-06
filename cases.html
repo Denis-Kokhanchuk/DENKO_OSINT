@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DENKO OSINT | Cases</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,300;14..32,400;14..32,500;14..32,600;14..32,700;14..32,800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <header class="header">
+        <div class="container">
+            <div class="header-inner">
+                <div class="logo">
+                    <a href="index.html">DENKO <span class="logo-accent">OSINT</span></a>
+                </div>
+                <nav class="nav-menu">
+                    <ul>
+                        <li><a href="index.html">HOME</a></li>
+                        <li><a href="cases.html" class="active">IMAGE OSINT</a></li>
+                        <li><a href="coming-soon.html">OSINT SEARCH <span class="soon-badge">SOON</span></a></li>
+                        <li><a href="about.html">ABOUT</a></li>
+                        <li><a href="rules.html">RULES</a></li>
+                    </ul>
+                </nav>
+                <div class="header-actions">
+                    <a href="profile.html" class="profile-icon">
+                        <i class="fas fa-user-circle"></i>
+                    </a>
+                    <button class="mobile-menu-btn" id="mobileMenuBtn">
+                        <i class="fas fa-bars"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <div class="breadcrumbs">
+                <a href="index.html">Home</a> > <span>Image OSINT</span>
+            </div>
+
+            <!-- Search and Sort -->
+            <div class="cases-filters">
+                <div class="search-box">
+                    <i class="fas fa-search"></i>
+                    <input type="text" id="searchInput" placeholder="Search case by name...">
+                </div>
+                <div class="sort-select">
+                    <select id="sortSelect">
+                        <option value="id">📋 By number</option>
+                        <option value="difficulty">📊 By difficulty</option>
+                    </select>
+                </div>
+            </div>
+
+            <!-- Cases Grid -->
+            <div class="cases-grid" id="casesGrid">
+                <div class="loading">Loading cases...</div>
+            </div>
+
+            <!-- Pagination -->
+            <div class="pagination" id="pagination"></div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-col">
+                    <div class="footer-logo">DENKO <span class="logo-accent">OSINT</span></div>
+                    <p>A platform for practical OSINT training. Develop your open-source intelligence skills.</p>
+                </div>
+                <div class="footer-col">
+                    <h4>Navigation</h4>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="cases.html">Cases</a></li>
+                        <li><a href="about.html">About</a></li>
+                        <li><a href="rules.html">Rules</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>Contacts</h4>
+                    <ul>
+                        <li><a href="mailto:kohanchukdenys@gmail.com"><i class="fas fa-envelope"></i> kohanchukdenys@gmail.com</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <div class="important-banner">
+        <div class="container">
+            <div class="banner-content">
+                <span class="important-icon"><i class="fas fa-exclamation-circle"></i></span>
+                <span class="important-label">IMPORTANT</span>
+                <span class="important-text">All cases are created solely for educational purposes</span>
+                <span class="separator">|</span>
+                <span class="important-text">Use knowledge ethically and responsibly</span>
+                <span class="separator">|</span>
+                <span class="important-text">Respect the privacy of others</span>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/main.js"></script>
+    <script src="js/cases.js"></script>
+</body>
+</html>

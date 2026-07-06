@@ -1,0 +1,16 @@
+{
+  "id": "029",
+  "title": "Hollywood Actor Image Verification",
+  "difficulty": "EASY",
+  "description": "Verify the authenticity of the photo featuring Hollywood actors.",
+  "questions": [
+    {
+      "type": "text",
+      "label": "Is this photo AI-generated? (Enter 'true' or 'false')",
+      "placeholder": "true / false",
+      "correctAnswer": "true"
+    }
+  ],
+  "hint": "Look closely at the artifacts and details in the background.",
+  "videoUrl": ""
+}

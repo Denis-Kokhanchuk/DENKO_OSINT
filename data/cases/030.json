@@ -1,0 +1,32 @@
+{
+  "id": "030",
+  "title": "Google Maps Route Analysis",
+  "difficulty": "EXPERT",
+  "description": "On the left, you are provided with 3 photos taken from Google Maps during a journey from Point A to Point B.",
+  "media": {
+    "type": "gallery",
+    "files": ["photo1.jpg", "photo2.jpg", "photo3.jpg"]
+  },
+  "questions": [
+    {
+      "type": "text",
+      "label": "Where did the route begin?",
+      "placeholder": "Enter starting point",
+      "correctAnswer": "Kinshukai Hanwa Daini Senboku Hospital"
+    },
+    {
+      "type": "text",
+      "label": "Where did the person ultimately arrive?",
+      "placeholder": "Enter destination point",
+      "correctAnswer": "Tennis Club Ko Su Pa Mikunigaoka"
+    },
+    {
+      "type": "text",
+      "label": "How long did they walk on foot (in minutes)?",
+      "placeholder": "Enter duration",
+      "correctAnswer": "55"
+    }
+  ],
+  "hint": "Look at the signs on the buildings to identify the locations, and then reconstruct the walking route map.",
+  "videoUrl": ""
+}

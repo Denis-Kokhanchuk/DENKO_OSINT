@@ -1,0 +1,22 @@
+{
+  "id": "028",
+  "title": "City Newspaper Kiosk",
+  "difficulty": "EASY",
+  "description": "A photo was taken of a structure that sells city newspapers. It is very famous across the entire country, and its owner is a woman.",
+  "questions": [
+    {
+      "type": "text",
+      "label": "In which city is this structure located?",
+      "placeholder": "Enter city name",
+      "correctAnswer": "Yaoundé"
+    },
+    {
+      "type": "text",
+      "label": "Who is its owner?",
+      "placeholder": "Enter owner's name",
+      "correctAnswer": "Marie-Claire Nnana"
+    }
+  ],
+  "hint": "Use Google Photos / Google Lens reverse image search to identify the kiosk.",
+  "videoUrl": ""
+}

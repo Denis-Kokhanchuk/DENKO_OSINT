@@ -1,0 +1,20 @@
+{
+  "id": "001",
+  "title": "Gelolocation",
+  "difficulty": "EASY",
+  "description": "In April 2017, Mohamed Abdullahi Farmaajo, the then president of Somalia, visited Turkey. A news agency published a photo where he was seen shaking hands with Recep Tayyip Erdo?an, the country’s president. The article did not disclose where the photo was taken.",
+  "questions": [
+    {
+      "type": "text",
+      "label": "Find the name of this place?",
+      "correctAnswer": "Presidential complex"
+    },
+    {
+      "type": "text",
+      "label": "Whot are the coordinates of this place?",
+      "correctAnswer": "39.93095, 32.79907"
+    }
+  ],
+  "hint": "Google Photos use!",
+  "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+}

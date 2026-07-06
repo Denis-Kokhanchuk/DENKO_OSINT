@@ -1,0 +1,22 @@
+{
+  "id": "024",
+  "title": "Metadata & Camera Movement Tracking",
+  "difficulty": "EXPERT",
+  "description": "Sometimes the fastest way to geolocate an image is to track down the movements of the person behind the lens. The photo on the right was taken on 20 September 2023, at 08:11 local time.",
+  "questions": [
+    {
+      "type": "text",
+      "label": "What device was used to take the photograph?",
+      "placeholder": "Enter device model",
+      "correctAnswer": "Samsung Galaxy A12"
+    },
+    {
+      "type": "text",
+      "label": "How far was the photographer from the entrance of their destination (Format: XX)?",
+      "placeholder": "Enter distance",
+      "correctAnswer": "96"
+    }
+  ],
+  "hint": "Download the image to your computer and inspect its metadata properties.",
+  "videoUrl": ""
+}

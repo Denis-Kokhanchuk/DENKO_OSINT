@@ -1,0 +1,25 @@
+{
+  "id": "012",
+  "title": "Satellite Thermal Anomaly Analysis",
+  "difficulty": "MEDIUM",
+  "description": "The screenshot on the right shows satellite imagery from a coastal area. Each red pixel represents a 30-meter center point containing a thermal anomaly. The data is from January.",
+  "questions": [
+    {
+      "type": "text",
+      "label": "Which website was used to produce the image on the right?",
+      "correctAnswer": "firms.modaps.eosdis.nasa.gov"
+    },
+    {
+      "type": "text",
+      "label": "Which country is seen in the image?",
+      "correctAnswer": "Australia"
+    },
+    {
+      "type": "text",
+      "label": "The screenshot shows data from a specific date. Which is the date?",
+      "correctAnswer": "Jun-04-2026"
+    }
+  ],
+  "hint": "This is a NASA website, and the image data is from the year 2026.",
+  "videoUrl": ""
+}
